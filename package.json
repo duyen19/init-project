@@ -1,0 +1,8 @@
+{
+  "name": "init-project",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.15.0"
+  }
+}
