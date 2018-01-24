@@ -27,3 +27,6 @@ config/database.yml.example
 config/secrets.yml.example
 framgia_ci_integrate_steps.md
 .framgia-ci-reports
+
+# Ignore Spring files.
+/spring/*.pid
